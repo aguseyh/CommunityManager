@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CommunityManager</string>
+    <string name="basico">BASICO</string>
+    <string name="medio">MEDIO</string>
+    <string name="premium">PREMIUM</string>
+</resources>
